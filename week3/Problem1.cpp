@@ -31,7 +31,7 @@ void print_array(string id[], string fname[], string lname[], string gpa[])
 //The menu should look like the following:
 //1. Dispalay arrays in order
 //2. Display arrays in reverse order
-//3. search bny student last name
+//3. search by student last name
 //4. exit
 //each option should be contained in its own function.
 //option 3 should prompt the user for a last name, calla sequential search functions and display firstname, last name and gpa when found or message stating name not in list if not found.
@@ -112,4 +112,5 @@ int main()
 	menu(id, fname, lname, gpa, slname, options);
 
 	return 0;
+
 }
