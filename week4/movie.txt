@@ -1,0 +1,11 @@
+Ace Ventura, comedy, 1994, 8.7
+
+Forrest Gump, adventure, 1994, 9.2
+
+Deadpool & Wolverine, adventure, 2024, 8.5
+
+Nacho Libre, comedy, 2006, 9.8
+
+John Wick, action, 2014, 10
+
+Pirates of the Caribbean, action, 2003, 9.5
