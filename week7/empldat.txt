@@ -1,0 +1,10 @@
+John,Jones,IT,100000.00
+Sue,Davis,Sales,125000.00
+Jane,Smith,Marketing,140000.00
+Bill,Klien,IT,200000.00
+John,Erricons,Sales,150000.00
+Sally,Michaels,Finance,90000.00
+Mark,Taylor,Finance,85000.00
+Ann,Niedleson,Sales,135000.00
+Ron,Gidry,IT,110000.00
+Megan,Chandler,HR,120000.00
