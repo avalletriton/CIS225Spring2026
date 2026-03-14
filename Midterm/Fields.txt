@@ -1,0 +1,10 @@
+Computer Science, 546, true, 32000
+Calculus, 1000, true, 14000
+English Rhetoric, 431, true, 22000
+Speech, 322, false, 15000
+Environmental Science, 220, false, 30000
+Personal Finance, 570, false, 27000
+Ethics, 345, false, 40000
+Statistics, 530, true, 29500
+Sociology, 170, false, 13000
+Public Speaking, 357, false, 34500
