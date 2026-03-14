@@ -1,0 +1,10 @@
+Hyundai, Venue SE, 22150
+Toyota, Corolla LE, 24120
+Honda, Civic LX, 25890
+Ford, Maverick, 28145
+Nissan, Leaf, 29990
+Volkswagen, Tiguan, 30805
+Toyota, RAV4, 31900
+Hyundai, Palisade, 39435
+Honda, Passport, 44950
+Lexus, LC 500, 101050
